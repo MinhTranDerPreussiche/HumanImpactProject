@@ -195,7 +195,7 @@ header nav {
 .day-2 {
     background-color: #000;
     color: #fff;
-    background-image: url('src/udonnoodles.jpeg'); /* Replace with relevant image */
+    background-image: url('udonnoodles.jpeg'); /* Replace with relevant image */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -206,7 +206,7 @@ header nav {
 .day-3 {
     background-color: #000;
     color: #fff;
-    background-image: url('src/udonnoodles.jpeg'); /* Replace with relevant image */
+    background-image: url('udonnoodles.jpeg'); /* Replace with relevant image */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -217,7 +217,7 @@ header nav {
 .day-4 {
     background-color: #000;
     color: #fff;
-    background-image: url('src/udonnoodles.jpeg'); /* Replace with relevant image */
+    background-image: url('udonnoodles.jpeg'); /* Replace with relevant image */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -228,7 +228,7 @@ header nav {
 .day-5 {
     background-color: #000;
     color: #fff;
-    background-image: url('src/softbread.jpeg'); /* Replace with relevant image */
+    background-image: url('softbread.jpeg'); /* Replace with relevant image */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -239,7 +239,7 @@ header nav {
 .day-6 {
     background-color: #000;
     color: #fff;
-    background-image: url('/src/chickennoddlescooked.jpeg'); /* Replace with relevant image */
+    background-image: url('chickennoddlescooked.jpeg'); /* Replace with relevant image */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -250,7 +250,7 @@ header nav {
 .day-7 {
     background-color: #000;
     color: #fff;
-    background-image: url('/src/udonnoodles.jpeg'); /* Replace with relevant image */
+    background-image: url('udonnoodles.jpeg'); /* Replace with relevant image */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -261,7 +261,7 @@ header nav {
 .day-8 {
     background-color: #000;
     color: #fff;
-    background-image: url('/src/latepass.jpeg'); /* Replace with relevant image */
+    background-image: url('latepass.jpeg'); /* Replace with relevant image */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -272,7 +272,7 @@ header nav {
 .day-9 {
     background-color: #000;
     color: #fff;
-    background-image: url('/src/thickbread.jpeg'); /* Replace with relevant image */
+    background-image: url('thickbread.jpeg'); /* Replace with relevant image */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -283,7 +283,7 @@ header nav {
 .day-10 {
     background-color: #000;
     color: #fff;
-    background-image: url('/src/udonnoodles.jpeg'); /* Replace with relevant image */
+    background-image: url('udonnoodles.jpeg'); /* Replace with relevant image */
     display: flex;
     justify-content: center;
     align-items: center;
